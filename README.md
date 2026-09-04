@@ -15,8 +15,8 @@ for your team.
 4. Every listed member accepts the repo invite from their GitHub notifications, then pushes work
    to `main`.
 
-One registration per team. Full walkthrough:
-[register/RUNBOOK.md](https://github.com/Kumbhathon-Innovation-Foundation/register/blob/main/RUNBOOK.md).
+One registration per team. Full participant and organiser flow:
+[the register repo](https://github.com/Kumbhathon-Innovation-Foundation/register).
 
 ## Projects in this tower
 
