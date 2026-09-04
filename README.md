@@ -1,25 +1,30 @@
 # Tower 2 — Hardware / IoT
 
-Tower hub for the Kumbhathon SPRINT. This repo holds the tower brief and points to
-the projects built under it. **Your project does not live here** — you create your own repo.
+Tower hub for the **Kumbhathon SPRINT**. Holds the tower brief and lists the projects built
+under it. Your project does **not** live here — the registration bot creates a private repo
+for your team.
 
-## Build here
+## Register your team
 
-1. Accept the invite to the [Kumbhathon-Innovation-Foundation](https://github.com/Kumbhathon-Innovation-Foundation) organisation.
-2. Create a new repository with the owner set to **Kumbhathon-Innovation-Foundation**, named `t2-your-project`.
-3. Add the topic `tower-2` to it so it appears in this tower's listing.
-4. Push.
+1. Open the Tower 2 registration form:
+   <https://github.com/Kumbhathon-Innovation-Foundation/register/issues/new?template=t2.yml>
+2. Fill in team name, project title, and every member's GitHub username (one per line, include
+   yourself).
+3. Submit. A bot checks it and creates `t2-<your-team>` (private). You get a comment with the
+   repo link; if something is wrong it says what — just edit the issue to fix it.
+4. Every listed member accepts the repo invite from their GitHub notifications, then pushes work
+   to `main`.
 
-Every project in this tower:
+One registration per team. Full walkthrough:
+[register/RUNBOOK.md](https://github.com/Kumbhathon-Innovation-Foundation/register/blob/main/RUNBOOK.md).
+
+## Projects in this tower
+
 [repositories tagged `tower-2`](https://github.com/orgs/Kumbhathon-Innovation-Foundation/repositories?q=topic%3Atower-2)
 
-## Who can change what
+## Access
 
-You get **admin on the repository you create**, and read on everything else. Every
-member can read every repo in the organisation. Nobody can push to a repo they did
-not create unless its owner adds them as a collaborator — that call is the owner's
-alone. Organisation owners can push anywhere; that is the only exception.
+Each team has **admin on its own repo only** and cannot see other teams' repos. Organisation
+owners can see everything. Nobody is added to a repo they were not listed on.
 
-## Team
-
-[@Kumbhathon-Innovation-Foundation/tower-2-hardware-iot](https://github.com/orgs/Kumbhathon-Innovation-Foundation/teams/tower-2-hardware-iot)
+Tower team: [@Kumbhathon-Innovation-Foundation/tower-2-hardware-iot](https://github.com/orgs/Kumbhathon-Innovation-Foundation/teams/tower-2-hardware-iot)
