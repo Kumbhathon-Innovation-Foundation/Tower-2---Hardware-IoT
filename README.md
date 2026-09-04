@@ -22,9 +22,13 @@ One registration per team. Full participant and organiser flow:
 
 [repositories tagged `tower-2`](https://github.com/orgs/Kumbhathon-Innovation-Foundation/repositories?q=topic%3Atower-2)
 
-## Access
+## What you can and can't do
 
-Each team has **admin on its own repo only** and cannot see other teams' repos. Organisation
-owners can see everything. Nobody is added to a repo they were not listed on.
-
-Tower team: [@Kumbhathon-Innovation-Foundation/tower-2-hardware-iot](https://github.com/orgs/Kumbhathon-Innovation-Foundation/teams/tower-2-hardware-iot)
+- Your team repo is **private**. Only the members you listed and the event organisers can open it.
+- You **cannot** see, clone, or open another team's repo — and they cannot see yours. Every team
+  works blind of the others until judging.
+- Every member you listed gets **admin** on your repo — push, change settings, manage it.
+- Forgot a teammate? Any member can add them: repo **Settings -> Collaborators -> Add people**,
+  role **Write** (or **Admin**). No organiser needed.
+- Do **not** rename or delete the repo — judging finds it by name and by the `tower-2` tag.
+- Organisers and organisation owners can view every team repo, for help and judging. Nobody else.
